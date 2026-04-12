@@ -3,7 +3,7 @@
 **🧠 Key Insights & Business Observations 
 👋 About This Project**
 
-This project presents an interactive Excel dashboard designed to analyze sales performance, customer behavior, product trends, delivery efficiency, and regional demand for an e-commerce business.
+This project presents an interactive Excel dashboard designed to analyze sales and performance, customer behavior, product trends, delivery efficiency, and regional demand for an e-commerce business.
 
 The goal is to turn raw data into actionable business insights 📈.
 
