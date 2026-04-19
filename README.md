@@ -5,7 +5,9 @@
 
 This project presents an interactive Excel dashboard designed to analyze sales and performance, customer behavior, product trends, delivery efficiency, and regional demand for an e-commerce business.
 
-The goal is to turn raw data into actionable business insights 📈.
+The goal is to turn raw data into actionable business insights 📈.<img width="1822" height="660" alt="image" src="https://github.com/user-attachments/assets/dfdc2e5f-4b44-47bc-a331-b3f1034900e7" />
+
+
 
 **🎯 Key Business Insights**
 
